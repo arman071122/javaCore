@@ -12,6 +12,7 @@ class Animal1 {
 
     void sleep() {
 	System.out.println(name + " is sleeping.");
+	System.out.println();
     }
 }
 
