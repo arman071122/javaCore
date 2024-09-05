@@ -16,7 +16,7 @@ class Animal1 {
     }
 }
 
-//Child class (Subclass) that inherits from Animalss
+//Child class (Subclass) that inherits from Animal
 class Dog1 extends Animal1 {
     // Method specific to Dog class
     void bark() {
