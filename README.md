@@ -27,6 +27,7 @@
 ## Week 2
 
 * [**anyNumRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/anyNumRev.java) : Reverses the digits of a number using a while loop, demonstrating the use of modular arithmetic and integer division.
+  
 * [**factorial.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/factorial.java) : Calculates the factorial of a number using a while loop, illustrating the iterative approach to compute the product of all positive integers up to the given number.
 * [**Great3.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/Great3.java) : Finds the greatest of three numbers using conditional statements and the bitwise AND operator to compare the values.
 * [**limit.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/limit.java) : Prints all even and odd numbers up to a specified limit using while loops and conditional checks.
