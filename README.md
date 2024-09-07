@@ -6,8 +6,8 @@
 * [Week 2](#week-2)
 * [Week 3](#week-3)
 * [Week 4](#week-4)
-
-<p align="justify">## Week 1
+<p align="justify">
+## Week 1
 
 * [**Calculator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Calculator.java) : Uses the Scanner class for user input and performs basic arithmetic operations (addition, subtraction, multiplication, division, modulus) on two numbers.
   
