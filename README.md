@@ -8,7 +8,7 @@
 * [Week 4](#week-4)
 
 ## Week 1
-<p align="justify">
+
 * [**Calculator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Calculator.java) : Uses the Scanner class for user input and performs basic arithmetic operations (addition, subtraction, multiplication, division, modulus) on two numbers.
   
 * [**Example.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Example.java) : Demonstrates basic Java syntax with character variables and simple output using System.out.println().
@@ -82,4 +82,3 @@
 * [**py.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/py.java): Prints a left-angled triangle pattern of stars (*) with a height of 5 rows, where each row contains an increasing number of stars from 1 to 5.
 * [**reveres.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/reveres.java): Prints the reverse of the hardcoded string "arman" by converting it to a character array and iterating from the end to the beginning.
 * [**starPatterns.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/starPatterns.java): Generates various star patterns based on user input for the number of rows, including Right Triangle, Inverted Right Triangle, Left-Right Triangle, Pyramid, and Diamond.
-</p>
