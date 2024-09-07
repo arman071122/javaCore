@@ -7,6 +7,7 @@ public class numPal {
 	Scanner sc = new Scanner(System.in);
 	System.out.println("enter any number");
 	int n = sc.nextInt();
+	int num = n;
 	int rev = 0;
 
 	while (n != 0) {
@@ -14,6 +15,10 @@ public class numPal {
 	    n /= 10;
 	}
 	System.out.println(rev);
+	if (num == rev) {
+	    System.out.println("Number is a palindrome");
+	} else
+	    System.out.println("Number is not a palindrome");
 	sc.close();
     }
 }

@@ -1,10 +1,12 @@
 package week4;
 
 public class reveres {
-    public static void reverseString(String s) {
+    public static void main(String[] args) {
+	String s = "arman";
 
 	char c[] = s.toCharArray();
-	for (int i = s.length() - 1; i >= 0; i--)
+	for (int i = s.length() - 1; i >= 0; i--) {
 	    System.out.print(c[i]);
+	}
     }
 }
