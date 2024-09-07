@@ -1,11 +1,12 @@
 package week4;
 
+import java.util.Scanner;
+
 // Parent class (Superclass)
 class Animal {
-    // Field (attribute)
+
     String name;
 
-    // Method (behavior)
     void eat() {
 	System.out.println(name + " is eating.");
     }
@@ -17,23 +18,45 @@ class Animal {
 
 // Child class (Subclass) that inherits from Animal
 class Dog extends Animal {
-    // Method specific to Dog class
+
     void bark() {
 	System.out.println(name + " is barking.");
     }
 }
 
+class Cat extends Animal {
+    void meow() {
+	System.out.println(name + " is meowing");
+    }
+}
+
 public class Inheritance {
     public static void main(String[] args) {
-	// Create an object of the Dog class
+	Scanner sc = new Scanner(System.in);
+
 	Dog dog = new Dog();
-	dog.name = "Dog"; // Setting the inherited field
+	Cat cat = new Cat();
 
-	// Calling methods from the superclass (Animal)
-	dog.eat(); // Buddy is eating.
-	dog.sleep(); // Buddy is sleeping.
+	System.out.println("Enter choice \n1.Dog\n2.Cat\n");
+	int ch = sc.nextInt();
 
-	// Calling method specific to the subclass (Dog)
-	dog.bark(); // Buddy is barking.
+	System.out.println("Enter ur animals name : ");
+	String animalName = sc.next();
+	switch (ch) {
+	case 1: {
+	    dog.name = animalName;
+	    dog.eat();
+	    dog.sleep();
+	    dog.bark();
+	    break;
+	}
+	case 2: {
+	    cat.name = animalName;
+	    cat.eat();
+	    cat.sleep();
+	    cat.meow();
+	    break;
+	}
+	}
     }
 }

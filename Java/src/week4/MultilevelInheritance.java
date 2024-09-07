@@ -2,10 +2,8 @@ package week4;
 
 //Parent class (Superclass)
 class Animal1 {
-    // Field (attribute)
     String name;
 
-    // Method (behavior)
     void eat() {
 	System.out.println(name + " is eating.");
     }
@@ -18,24 +16,22 @@ class Animal1 {
 
 //Child class (Subclass) that inherits from Animal
 class Dog1 extends Animal1 {
-    // Method specific to Dog class
     void bark() {
 	System.out.println(name + " is barking.");
     }
 }
 
-//Class that inherits from Dog (further down the inheritance chain)
+//Class that inherits from Dog
 public class MultilevelInheritance extends Dog1 {
     public static void main(String[] args) {
-	// Create an object of InheritanceExample class
-	MultilevelInheritance example = new MultilevelInheritance();
-	example.name = "Buddy"; // Setting the inherited field
+	MultilevelInheritance dog1 = new MultilevelInheritance();
+	dog1.name = "Shreyas";
 
 	// Calling methods from the Animal superclass
-	example.eat(); // Buddy is eating.
-	example.sleep(); // Buddy is sleeping.
+	dog1.eat();
+	dog1.sleep();
 
 	// Calling method from the Dog class
-	example.bark(); // Buddy is barking.
+	dog1.bark();
     }
 }
