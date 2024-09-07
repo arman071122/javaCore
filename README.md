@@ -10,9 +10,9 @@
 ## Week 1
 
 * [**Calculator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Calculator.java) : Uses the Scanner class for user input and performs basic arithmetic operations (addition, subtraction, multiplication, division, modulus) on two numbers.
-* 
+  
 * [**Example.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Example.java) : Demonstrates basic Java syntax with character variables and simple output using System.out.println().
-* 
+  
 * [**Fun_calc.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Fun_calc.java) : Utilizes instance variables and methods for user input and basic arithmetic operations (addition, subtraction, multiplication, division, modulus) in a simple calculator class.
 * [**Num_rev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Num_rev.java) : Utilizes instance variables and methods to reverse a three-digit number by splitting it into hundreds, tens, and ones places, and then reconstructing it in reverse order.
 * [**Operators.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Operators.java) : Demonstrates various Java operators including unary, arithmetic, shift, relational, bitwise, logical, ternary, and assignment operators, and explains the differences between logical and bitwise operations with examples.
