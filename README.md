@@ -18,28 +18,31 @@
 * [**StrRev.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/StrRev.java): Reverses a given string.
 * [**Strings_eg.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/Strings_eg.java): Examples of string manipulation, including concatenation, substring, and other operations.
 * [**mutability.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/mutability.java): Explores the concept of mutability in Java objects and how they can be changed after creation.
-* [**swap_notemp1.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/swap_notemp1.java), [**swap_notemp2.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/swap_notemp2.java), [**swap_temp.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/swap_temp.java): Different methods for swapping two variables without using a temporary variable.
+* [**swap_notemp1.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/swap_notemp1.java): Different methods for swapping two variables without using a temporary variable.
+* [**swap_notemp2.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/swap_notemp2.java): Different methods for swapping two variables without using a temporary variable.
+* [**swap_temp.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/swap_temp.java): Different methods for swapping two variables without using a temporary variable.
 * [**variables.java**](https://github.com/yourusername/yourrepo/blob/main/Week1/variables.java): Introduces different data types and variable declaration in Java.
 
 ## Week 2
 
 * [**Great3Fun.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/Great3Fun.java): Finds the greatest of three numbers.
 * [**StrRevFun.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/StrRevFun.java): Another implementation of string reversal.
-* [**SwitchCalc.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/SwitchCalc.java), [**SwitchCalcDoWhile.class**](https://github.com/yourusername/yourrepo/blob/main/Week2/SwitchCalcDoWhile.class), [**SwitchCalcDoWhile.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/SwitchCalcDoWhile.java), [**anyNumCalcDoWhile.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/anyNumCalcDoWhile.java): Demonstrates the use of `switch` statements and `do-while` loops for calculations.
+* [**SwitchCalc.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/SwitchCalc.java): Demonstrates the use of `switch` statements and `do-while` loops for calculations.
+* [**SwitchCalcDoWhile.class**](https://github.com/yourusername/yourrepo/blob/main/Week2/SwitchCalcDoWhile.class): Demonstrates the use of `switch` statements and `do-while` loops for calculations.
+* [**SwitchCalcDoWhile.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/SwitchCalcDoWhile.java): Demonstrates the use of `switch` statements and `do-while` loops for calculations.
+* [**anyNumCalcDoWhile.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/anyNumCalcDoWhile.java): Demonstrates the use of `switch` statements and `do-while` loops for calculations.
 * [**factorial.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/factorial.java): Calculates the factorial of a given number.
 * [**limit.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/limit.java): Might involve setting limits or constraints in a program.
 * [**numPalindrome.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/numPalindrome.java): Checks if a number is a palindrome (reads the same backward as forward).
 * [**odd_even.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/odd_even.java): Determines if a number is odd or even.
 * [**prime_num.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/prime_num.java): Checks if a number is prime.
-* [**strRevFun2.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/strRevFun2.java), [**strRevFun3.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/strRevFun3.java): More string reversal implementations.
-* [**sumDigits.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/sumDigits.java): Calculates the sum of digits in a number.
-* [**sumOfN.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/sumOfN.java): Calculates the sum of the first n natural numbers.
-* [**switchCalcChar.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/switchCalcChar.java): Uses a `switch` statement with characters.
-* [**ustQuestion1NoSpace.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/ustQuestion1NoSpace.java), [**ustQuestion11alt.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/ustQuestion11alt.java), [**vowelsPos.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/vowelsPos.java): Might be specific exercises or questions related to a particular course or exam.
+* [**strRevFun2.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/strRevFun2.java): More string reversal implementations.
+* [**strRevFun3.java**](https://github.com/yourusername/yourrepo/blob/main/Week2/strRevFun3.java): More string reversal implementations.
 
 ## Week 3
 
-* [**ArrayEg.java**](https://github.com/yourusername/yourrepo/blob/main/Week3/ArrayEg.java), [**Array_q.java**](https://github.com/yourusername/yourrepo/blob/main/Week3/Array_q.java): Examples of array usage and manipulation.
+* [**ArrayEg.java**](https://github.com/yourusername/yourrepo/blob/main/Week3/ArrayEg.java): Examples of array usage and manipulation.
+* [**Array_q.java**](https://github.com/yourusername/yourrepo/blob/main/Week3/Array_q.java): Examples of array usage and manipulation.
 * [**FinalizeExample.java**](https://github.com/yourusername/yourrepo/blob/main/Week3/FinalizeExample.java): Demonstrates the `finalize()` method in Java.
 * [**Garbage_collector.java**](https://github.com/yourusername/yourrepo/blob/main/Week3/Garbage_collector.java): Explains the garbage collection process in Java.
 * [**Str_rev.java**](https://github.com/yourusername/yourrepo/blob/main/Week3/Str_rev.java): Another string reversal implementation.
