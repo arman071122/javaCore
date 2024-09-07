@@ -9,22 +9,26 @@
 
 ## Week 1
 
-* [**Calculator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Calculator.java): Implements a basic calculator with addition, subtraction, multiplication, and division operations.
-* [**Example.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Example.java): A simple Java program demonstrating basic syntax and structure.
-* [**Fun_calc.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Fun_calc.java): A more advanced calculator potentially including features like trigonometric functions, exponents, or logarithms.
-* [**Num_rev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Num_rev.java): Reverses the digits of a given integer.
-* [**Operators.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Operators.java): Demonstrates different types of operators in Java (arithmetic, comparison, logical).
-* [**Portfolio.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Portfolio.java): Might be a project related to creating a basic portfolio or resume using Java.
-* [**StrRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/StrRev.java): Reverses a given string.
-* [**Strings_eg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Strings_eg.java): Examples of string manipulation, including concatenation, substring, and other operations.
-* [**mutability.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/mutability.java): Explores the concept of mutability in Java objects and how they can be changed after creation.
-* [**swap_notemp1.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/swap_notemp1.java): Different methods for swapping two variables without using a temporary variable.
-* [**swap_notemp2.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/swap_notemp2.java): Different methods for swapping two variables without using a temporary variable.
-* [**swap_temp.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/swap_temp.java): Different methods for swapping two variables without using a temporary variable.
-* [**variables.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/variables.java): Introduces different data types and variable declaration in Java.
+* [**Calculator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Calculator.java) : Uses the Scanner class for user input and performs basic arithmetic operations (addition, subtraction, multiplication, division, modulus) on two numbers.
+* [**Example.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Example.java) : Demonstrates basic Java syntax with character variables and simple output using System.out.println().
+* [**Fun_calc.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Fun_calc.java) : Utilizes instance variables and methods for user input and basic arithmetic operations (addition, subtraction, multiplication, division, modulus) in a simple calculator class.
+* [**Num_rev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Num_rev.java) : Utilizes instance variables and methods to reverse a three-digit number by splitting it into hundreds, tens, and ones places, and then reconstructing it in reverse order.
+* [**Operators.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Operators.java) : Demonstrates various Java operators including unary, arithmetic, shift, relational, bitwise, logical, ternary, and assignment operators, and explains the differences between logical and bitwise operations with examples.
+* [**Portfolio.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Portfolio.java) : Utilizes methods to display personal details such as name, date of birth, city, and education, creating a simple portfolio in Java.
+* [**StrRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/StrRev.java) : Uses StringBuffer to reverse a user-input string and demonstrates how to reverse a string using the reverse() method.
+* [**Strings_eg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Strings_eg.java) : Demonstrates various string operations in Java, including string creation, concatenation, substring extraction, trimming, case conversion, and equality checks, as well as how to use Scanner for user input.
+* [**mutability.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/mutability.java) : Demonstrates mutability in Java by comparing StringBuilder and StringBuffer (mutable) with String (immutable), showing how they handle string modifications.
+* [**swap_notemp1.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/swap_notemp1.java) : Demonstrates swapping two variables without using a temporary variable by utilizing arithmetic operations.
+* [**swap_notemp2.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/swap_notemp2.java) : Demonstrates swapping two variables without using a temporary variable by utilizing arithmetic operations (addition and subtraction).
+* [**swap_temp.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/swap_temp.java) : Demonstrates swapping two variables using a temporary variable to hold one of the values during the swap process.
+* [**variables.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/variables.java) : Demonstrates instance and local variables in Java, illustrating the scope of variables defined within methods versus those defined within a class but outside methods.
 
 ## Week 2
 
+* [**Great3Fun.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/Great3Fun.java): Finds the greatest of three numbers.
+* [**Great3Fun.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/Great3Fun.java): Finds the greatest of three numbers.
+* [**Great3Fun.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/Great3Fun.java): Finds the greatest of three numbers.
+* [**Great3Fun.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/Great3Fun.java): Finds the greatest of three numbers.
 * [**Great3Fun.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/Great3Fun.java): Finds the greatest of three numbers.
 * [**StrRevFun.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/StrRevFun.java): Another implementation of string reversal.
 * [**SwitchCalc.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/SwitchCalc.java): Demonstrates the use of `switch` statements and `do-while` loops for calculations.
