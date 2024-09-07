@@ -1,4 +1,4 @@
-# Java Core
+# Java Core Learning
 
 ## Table of Contents
 
