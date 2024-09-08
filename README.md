@@ -1,4 +1,4 @@
-# Java Core
+# Java Core Learning
 
 ## Table of Contents
 
@@ -10,6 +10,7 @@
 ## Week 1
 
 * [**Calculator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Calculator.java) : Uses the Scanner class for user input and performs basic arithmetic operations (addition, subtraction, multiplication, division, modulus) on two numbers.
+  
 * [**Example.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Example.java) : Demonstrates basic Java syntax with character variables and simple output using System.out.println().
 * [**Fun_calc.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Fun_calc.java) : Utilizes instance variables and methods for user input and basic arithmetic operations (addition, subtraction, multiplication, division, modulus) in a simple calculator class.
 * [**Num_rev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week1/Num_rev.java) : Utilizes instance variables and methods to reverse a three-digit number by splitting it into hundreds, tens, and ones places, and then reconstructing it in reverse order.
@@ -26,6 +27,7 @@
 ## Week 2
 
 * [**anyNumRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/anyNumRev.java) : Reverses the digits of a number using a while loop, demonstrating the use of modular arithmetic and integer division.
+  
 * [**factorial.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/factorial.java) : Calculates the factorial of a number using a while loop, illustrating the iterative approach to compute the product of all positive integers up to the given number.
 * [**Great3.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/Great3.java) : Finds the greatest of three numbers using conditional statements and the bitwise AND operator to compare the values.
 * [**limit.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week2/limit.java) : Prints all even and odd numbers up to a specified limit using while loops and conditional checks.
@@ -48,6 +50,7 @@
 ## Week 3
 
 * [**ArrayEg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week3/ArrayEg.java): Introduction to array handling in Java with functionalities to input array elements, calculate their sum and average, check if each number is a palindrome, and determine if each number is prime.
+  
 * [**Array_q.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week3/Array_q.java): Provides functionality to check if a string is a palindrome and to search for occurrences of a specific character within the string, with options to continue with the same input.
 * [**FinalizeExample.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week3/FinalizeExample.java): Demonstrates the use of the finalize() method in Java to perform cleanup actions before an object is garbage collected, although the @Override annotation is missing.
 * [**Garbage_collector.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week3/Garbage_collector.java): Demonstrates how to request garbage collection and use the finalize() method (without @Override annotation) to display a message when an object is being collected.
@@ -64,6 +67,7 @@
 ## Week 4
 
 * [**Bank.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/Bank.java): Implements a basic banking system or account class.
+  
 * [**Inheritance.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/Inheritance.java): Demonstrates inheritance in Java. It defines a base class Animal with common behaviors (eat and sleep). The Dog and Cat classes extend Animal, adding specific behaviors (bark for Dog and meow for Cat). The program interacts with the user to choose between a Dog or Cat, sets the animal's name, and invokes their respective methods.
 * [**MultilevelInheritance.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/MultilevelInheritance.java): Demonstrates multilevel inheritance by extending the Dog1 class (which itself extends Animal1). It creates a MultilevelInheritance instance, sets its name, and calls methods from both the Animal1 superclass and the Dog1 class.
 * [**StringRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/StringRev.java): The MainTest class extends StringRev, which extends Rev, and demonstrates inheritance with a method to reverse a string and a method to display a message.
