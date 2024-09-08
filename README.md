@@ -71,14 +71,25 @@
 * [**Inheritance.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/Inheritance.java): Demonstrates inheritance in Java. It defines a base class Animal with common behaviors (eat and sleep). The Dog and Cat classes extend Animal, adding specific behaviors (bark for Dog and meow for Cat). The program interacts with the user to choose between a Dog or Cat, sets the animal's name, and invokes their respective methods.
 * [**MultilevelInheritance.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/MultilevelInheritance.java): Demonstrates multilevel inheritance by extending the Dog1 class (which itself extends Animal1). It creates a MultilevelInheritance instance, sets its name, and calls methods from both the Animal1 superclass and the Dog1 class.
 * [**StringRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/StringRev.java): The MainTest class extends StringRev, which extends Rev, and demonstrates inheritance with a method to reverse a string and a method to display a message.
-* [**WPattern.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/WPattern.java): The WPattern class prints a 'W' pattern using nested loops.
 * [**date_time.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/date_time.java): Displays the current date, time, and date-time. Formats the current date-time into various patterns and prints the formatted results.
+* [**WPattern.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/WPattern.java): The WPattern class prints a 'W' pattern using nested loops.
 * [**diamond.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/diamond.java): Prints a diamond pattern using asterisks. The pattern is created by first printing an upper triangle and then a lower triangle, both of which together form the diamond shape.
+    *  
+   * *  
+  * * *  
+ * * * *  
+* * * * *  
+ * * * * 
+  * * * 
+   * * 
+    * 
+
 * [**InvRightTriangle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/InvRightTriangle.java): Prints an inverted pyramid pattern using asterisks. It starts with 5 asterisks on the first line and decreases by one asterisk per line until it reaches 1 asterisk.
 * [**leftRightTri.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/leftRightTri.java): Prints a left-aligned right triangle pattern using asterisks. It starts with 1 asterisk on the first line and increases by one asterisk per line until it reaches 5 asterisks.
-* [**megaPattern.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/megaPattern.java): Prints a complex pattern combining two shapes. The first part creates a symmetrical pattern with stars and spaces, and the second part forms a left-aligned right triangle pattern with stars.
 * [**properW.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/properW.java): Prints a pattern of the letter 'W' with a height of 7 rows, using nested loops to control the positioning of stars (*) and spaces.
 * [**propPyramid.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/propPyramid.java): Prints a pyramid pattern with a height of 5 rows, where each row contains increasing numbers of stars (*) separated by spaces.
 * [**RightTri.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/RightTri.java): Prints a left-angled triangle pattern of stars (*) with a height of 5 rows, where each row contains an increasing number of stars from 1 to 5.
-* [**StrRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/StrRev.java): Prints the reverse of the hardcoded string "arman" by converting it to a character array and iterating from the end to the beginning.
 * [**starPatterns.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/starPatterns.java): Generates various star patterns based on user input for the number of rows, including Right Triangle, Inverted Right Triangle, Left-Right Triangle, Pyramid, and Diamond.
+* [**megaPattern.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/megaPattern.java): Prints a complex pattern combining two shapes. The first part creates a symmetrical pattern with stars and spaces, and the second part forms a left-aligned right triangle pattern with stars.
+* [**StrRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/StrRev.java): Prints the reverse of the hardcoded string "namra" by converting it to a character array and iterating from the end to the beginning.
+
