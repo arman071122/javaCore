@@ -1,6 +1,6 @@
 package week4;
 
-public class reveres {
+public class StrRev {
     public static void main(String[] args) {
 	String s = "namra";
 

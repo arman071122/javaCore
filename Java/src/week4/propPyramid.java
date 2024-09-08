@@ -1,6 +1,6 @@
 package week4;
 
-public class proppyramid {
+public class propPyramid {
     public static void main(String[] args) {
 	int row = 5;
 

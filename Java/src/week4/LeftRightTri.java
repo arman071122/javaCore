@@ -1,6 +1,6 @@
 package week4;
 
-public class leftrighttri {
+public class LeftRightTri {
     public static void main(String[] args) {
 	int row = 5;
 
