@@ -73,8 +73,9 @@
 * [**StringRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/StringRev.java): The MainTest class extends StringRev, which extends Rev, and demonstrates inheritance with a method to reverse a string and a method to display a message.
 * [**date_time.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/date_time.java): Displays the current date, time, and date-time. Formats the current date-time into various patterns and prints the formatted results.
 * [**WPattern.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/WPattern.java): The WPattern class prints a 'W' pattern using nested loops.
-* [**diamond.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/diamond.java): Prints a diamond pattern using asterisks. The pattern is created by first printing an upper triangle and then a lower triangle, both of which together form the diamond shape.
-  ![image](https://github.com/user-attachments/assets/e3b36d12-cc26-4034-8b24-504c1469d903)
+* [**diamond.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/diamond.java): Prints a diamond pattern using asterisks. The pattern is created by first printing an
+  upper triangle and then a lower triangle, both of which together form the diamond shape.
+![image](https://github.com/user-attachments/assets/4040c138-1197-42f2-b5c4-0a4295d3c1f9)
 
 * [**InvRightTriangle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/InvRightTriangle.java): Prints an inverted pyramid pattern using asterisks. It starts with 5 asterisks on the first line and decreases by one asterisk per line until it reaches 1 asterisk.
 * [**leftRightTri.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/leftRightTri.java): Prints a left-aligned right triangle pattern using asterisks. It starts with 1 asterisk on the first line and increases by one asterisk per line until it reaches 5 asterisks.
