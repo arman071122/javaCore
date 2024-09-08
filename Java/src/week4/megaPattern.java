@@ -6,22 +6,25 @@ public class megaPattern {
 
 	for (i = 5; i > 0; i--) {
 	    for (j = 1; j <= i; j++) {
-		System.out.print("*");
+		System.out.print("* ");
 	    }
-	    for (j = rows * 2; j > (2 * i); j--) {
+	    for (j = rows * 4; j > (4 * i); j--) {
 		System.out.print(" ");
 	    }
 	    for (j = 1; j <= i; j++) {
-		System.out.print("*");
+		System.out.print("* ");
 	    }
 	    System.out.println("");
 	}
-	for (i = 1; i <= 5; i++) {
+	for (i = 2; i <= 5; i++) {
 	    for (j = 1; j <= i; j++) {
-		System.out.print("*");
+		System.out.print("* ");
 	    }
-	    for (j = 0; j < i; j++) {
+	    for (j = rows * 4; j > (4 * i); j--) {
 		System.out.print(" ");
+	    }
+	    for (j = 1; j <= i; j++) {
+		System.out.print("* ");
 	    }
 
 	    System.out.println("");
