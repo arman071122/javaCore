@@ -74,7 +74,7 @@
 * [**date_time.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/date_time.java): Displays the current date, time, and date-time. Formats the current date-time into various patterns and prints the formatted results.
 * [**WPattern.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/WPattern.java): The WPattern class prints a 'W' pattern using nested loops.
 * [**diamond.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/diamond.java): Prints a diamond pattern using asterisks. The pattern is created by first printing an upper triangle and then a lower triangle, both of which together form the diamond shape.
-    *  
+"   *  
    * *  
   * * *  
  * * * *  
@@ -83,7 +83,7 @@
   * * * 
    * * 
     * 
-
+"
 * [**InvRightTriangle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/InvRightTriangle.java): Prints an inverted pyramid pattern using asterisks. It starts with 5 asterisks on the first line and decreases by one asterisk per line until it reaches 1 asterisk.
 * [**leftRightTri.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/leftRightTri.java): Prints a left-aligned right triangle pattern using asterisks. It starts with 1 asterisk on the first line and increases by one asterisk per line until it reaches 5 asterisks.
 * [**properW.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/properW.java): Prints a pattern of the letter 'W' with a height of 7 rows, using nested loops to control the positioning of stars (*) and spaces.
