@@ -110,7 +110,8 @@
 ## Week 6
 
 * [**SentenceRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/SentenceRev.java): This Java program reverses the words in a user-inputted sentence by splitting the sentence into an array and printing the words in reverse order.
-* [**PascalsTriangle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/PascalsTriangle.java): This Java program prints the pascals triangle for the use inputted number of rows.![image](https://github.com/user-attachments/assets/c5c01860-46e6-4461-9dd4-7079dfe55aac)
+* [**PascalsTriangle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/PascalsTriangle.java): This Java program prints the pascals triangle for the use inputted number of rows.
+  ![image](https://github.com/user-attachments/assets/c5c01860-46e6-4461-9dd4-7079dfe55aac)
 
 * [**SentenceRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/SentenceRev.java): This Java program reverses the words in a user-inputted sentence by splitting the sentence into an array and printing the words in reverse order.
 * [**SentenceRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/SentenceRev.java): This Java program reverses the words in a user-inputted sentence by splitting the sentence into an array and printing the words in reverse order.
