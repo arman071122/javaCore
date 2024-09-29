@@ -6,6 +6,8 @@
 * [Week 2](#week-2)
 * [Week 3](#week-3)
 * [Week 4](#week-4)
+* [Week 5](#week-5)
+* [Week 6](#week-6)
 
 ## Week 1
 
@@ -101,3 +103,18 @@
 
 * [**StrRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week4/StrRev.java): Prints the reverse of the hardcoded string "namra" by converting it to a character array and iterating from the end to the beginning.
 
+## Week 5
+
+* [**Overloading.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week5/Overloading.java): This program demonstrates method overloading by calculating the area of different shapes (rectangle, square, and circle) using multiple area methods with varying parameters in the Overloading class.
+
+## Week 6
+
+* [**SentenceRev.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/SentenceRev.java): This Java program reverses the words in a user-inputted sentence by splitting the sentence into an array and printing the words in reverse order.
+* [**PascalsTriangle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/PascalsTriangle.java): This Java program prints the pascals triangle for the use inputted number of rows.<br>
+  ![image](https://github.com/user-attachments/assets/c5c01860-46e6-4461-9dd4-7079dfe55aac)
+
+* [**car.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/car.java): Examole of using a parameterized constructor to initialize attributes.
+* [**CarPgm.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/CarPgm.java): This Java program creates multiple car objects using the parameterized constructor from the car class to initialize their attributes, and it displays the details, speed, and mileage of each car instance.
+* [**product.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/product.java): This Java program defines a product class that utilizes various constructors (including no-argument, parameterized, and overloaded constructors) for object initialization and demonstrates constructor chaining.
+* [**ProductProgram.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/ProductProgram.java): This program demonstrates constructor overloading and initialization methods in a product class by creating and displaying different products, including using no-argument and parameterized constructors.
+* [**returnEg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/returnEg.java): Example of return function.
