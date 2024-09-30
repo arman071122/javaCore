@@ -24,17 +24,16 @@ class PowerPoint extends MSOffice {
 
 public class OfficeApplication {
     public static void main(String[] args) {
-	MSOffice msOffice1 = new Word();
+
+	MSOffice msOffice1 = new Word(); // upcasting
 	MSOffice msOffice2 = new Excel();
 	MSOffice msOffice3 = new PowerPoint();
 
-	// Upcasting
 	msOffice1.createNewFile();
 	msOffice2.createNewFile();
 	msOffice3.createNewFile();
 
-	// Downcasting
-	Word word = (Word) msOffice1;
+	Word word = (Word) msOffice1; // downcasting
 	System.out.println("\nThis is a Word object.");
 
 	Excel excel = (Excel) msOffice2;
