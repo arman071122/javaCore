@@ -116,3 +116,47 @@
 * [**product.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/product.java): This Java program defines a product class that utilizes various constructors (including no-argument, parameterized, and overloaded constructors) for object initialization and demonstrates constructor chaining.
 * [**ProductProgram.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/ProductProgram.java): This program demonstrates constructor overloading and initialization methods in a product class by creating and displaying different products, including using no-argument and parameterized constructors.
 * [**returnEg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/returnEg.java): Example of return function.
+* [**Circle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/Circle.java):
+* [**GreenMango.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/GreenMango.java) and [**Mango.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/Mango.java):
+* [**RatProblem.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/RatProblem.java):
+* [**TypeCasting.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/TypeCasting.java):
+* [**UpcastingDowncasting.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/UpcastingDowncasting.java):
+* [**OfficeApplication.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/OfficeApplication.java):
+* [**Vehicle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/Vehicle.java) and [**Alto.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/Alto.java):Abstraction and method overriding
+
+## Week 7
+
+* [**FirstInterface.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/FirstInterface.java):
+* [**Class1.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Class1.java):
+* [**SecondInterface.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/SecondInterface.java):
+* [**Class2.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Class2.java):
+* [**A.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/A.java):
+* [**B.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/B.java):
+* [**C.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/C.java):
+* [**ABC.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/ABC.java):
+* [**C1.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/C1.java):
+* [**C2.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/C2.java):
+* [**I1.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/I1.java):
+* [**PasswordChecker.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/PasswordChecker.java):
+* [**Email.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Email.java):
+* [**EmailObj.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/EmailObj.java):
+* [**ArithmaticException.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/ArithmaticException.java):
+* [**OutofBoundException.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/OutofBoundException.java):
+* [**NullPointer.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/NullPointer.java):
+* [**NumberFormatException.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/NumberFormatException.java):
+* [**BankApp.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/BankApp.java):
+* [**ClassCasteException.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/ClassCasteException.java):
+* [**MultiCatch.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/MultiCatch.java):
+* [**Block.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Block.java):
+* [**FinallyEg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/FinallyEg.java):
+* [**Expthrows.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Expthrows.java):
+* [**Operator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Operator.java):
+* [**Throw.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Throw.java):
+
+## Week 8
+
+* [**ArrayQuestion.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/ArrayQuestion.java):
+* [**VoterUnderageException.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/VoterUnderageException.java):
+* [**VoterApp.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/VoterApp.java):
+* [**MatrimonyExceptions.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/MatrimonyExceptions.java):
+* [**MAtrimonyApp.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/MatrimonyApp.java):
