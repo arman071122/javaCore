@@ -116,3 +116,5 @@
 * [**product.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/product.java): This Java program defines a product class that utilizes various constructors (including no-argument, parameterized, and overloaded constructors) for object initialization and demonstrates constructor chaining.
 * [**ProductProgram.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/ProductProgram.java): This program demonstrates constructor overloading and initialization methods in a product class by creating and displaying different products, including using no-argument and parameterized constructors.
 * [**returnEg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/returnEg.java): Example of return function.
+* [**Circle.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/Circle.java):
+* [**GreenMango.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/GreenMango.java) and [**Mango.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week6/Mango.java)
