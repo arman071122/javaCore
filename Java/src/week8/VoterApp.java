@@ -3,9 +3,9 @@ package week8;
 import java.util.Scanner;
 
 public class VoterApp {
-    public static void checkEligiblity(int age) throws UnderageException {
+    public static void checkEligiblity(int age) throws VoterUnderageException {
 	if (age < 18)
-	    throw new UnderageException();
+	    throw new VoterUnderageException();
 	else
 	    System.out.println("\n You are eligible to vote");
     }
@@ -19,7 +19,7 @@ public class VoterApp {
 
 	try {
 	    checkEligiblity(age);
-	} catch (UnderageException u) {
+	} catch (VoterUnderageException u) {
 	    System.out.println(u);
 	}
     }

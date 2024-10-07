@@ -1,6 +1,6 @@
 package week8;
 
-public class UnderageException extends Exception {
+public class VoterUnderageException extends Exception {
 
     @Override
     public String getMessage() {
