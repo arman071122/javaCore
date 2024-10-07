@@ -1,6 +1,6 @@
 package week6;
 
-public class VehicleAlto {
+public class UpcastingDowncasting {
     public static void main(String[] args) {
 	// Upcasting: Assigning an instance of Alto (subclass) to Vehicle (superclass)
 	// reference
