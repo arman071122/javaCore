@@ -1,6 +1,6 @@
 package week7;
 
-public class Throw {
+public class ExpThrow {
     public static void main(String[] args) {
 
 	System.out.println("hello");

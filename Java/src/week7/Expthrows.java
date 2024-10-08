@@ -5,9 +5,7 @@ import java.io.FileNotFoundException;
 public class Expthrows {
 
     public static void main(String[] args) throws InterruptedException, FileNotFoundException {
-
 	m1();
-
     }
 
     public static void m1() throws InterruptedException, FileNotFoundException {

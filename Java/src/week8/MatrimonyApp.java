@@ -6,17 +6,17 @@ public class MatrimonyApp {
     public static void EligiblityMarry(String gender, int age) throws MatrimonyExceptions {
 	if (gender.equals("male"))
 	    if (age < 21)
-		throw new MenUnderage();
+		throw new Underage();
 	    else if (age > 40)
-		throw new MenOverage();
+		throw new Overage();
 	    else
 		System.out.println("Congratulations lets find u a life partner");
 
 	else if (gender.equals("female"))
 	    if (age < 18)
-		throw new WomenUnderage();
+		throw new Underage();
 	    else if (age > 40)
-		throw new WomenOverage();
+		throw new Overage();
 	    else
 		System.out.println("Congratulations lets find u a life partner");
 
