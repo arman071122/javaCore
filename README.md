@@ -153,7 +153,7 @@
 * [**FinallyEg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/FinallyEg.java):
 * [**Expthrows.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Expthrows.java):
 * [**Operator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Operator.java):
-* [**Throw.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Throw.java):
+* [**ExpThrow.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/ExpThrow.java):
 
 ## Week 8
 
