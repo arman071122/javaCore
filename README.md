@@ -8,6 +8,8 @@
 * [Week 4](#week-4)
 * [Week 5](#week-5)
 * [Week 6](#week-6)
+* [Week 7](#week-7)
+* [Week 8](#week-8)
 
 ## Week 1
 
@@ -126,7 +128,7 @@
 
 ## Week 7
 
-* [**FirstInterface.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/FirstInterface.java):
+* [**Firstinterface.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Firstinterface.java):
 * [**Class1.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Class1.java):
 * [**SecondInterface.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/SecondInterface.java):
 * [**Class2.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Class2.java):
