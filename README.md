@@ -153,7 +153,7 @@
 * [**FinallyEg.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/FinallyEg.java):
 * [**Expthrows.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Expthrows.java):
 * [**Operator.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Operator.java):
-* [**Throw.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/Throw.java):
+* [**ExpThrow.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week7/ExpThrow.java):
 
 ## Week 8
 
@@ -161,4 +161,5 @@
 * [**VoterUnderageException.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/VoterUnderageException.java):
 * [**VoterApp.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/VoterApp.java):
 * [**MatrimonyExceptions.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/MatrimonyExceptions.java):
-* [**MAtrimonyApp.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/MatrimonyApp.java):
+* [**MatrimonyApp.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/MatrimonyApp.java):
+* [**MoveHyphenQuestion.java**](https://github.com/arman071122/javaCore/blob/main/Java/src/week8/MoveHyphenQuestion.java):
