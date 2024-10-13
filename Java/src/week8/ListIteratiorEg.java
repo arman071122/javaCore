@@ -1,6 +1,7 @@
 package week8;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.ListIterator;
 
@@ -39,14 +40,21 @@ public class ListIteratiorEg {
 	while (li.hasNext())
 	    System.out.println(li.next());
 
+	System.out.println();
+
 	Iterator i = fruit.iterator();
 	while (i.hasNext())
 	    System.out.println(i.next());
 
-	li = fruit.listIterator();
-	while (li.hasNext()) {
-	    li.next();
-	    li.remove();
-	}
+//	li = fruit.listIterator();
+//	while (li.hasNext()) {
+//	    li.next();
+//	    li.remove();
+//	}
+
+	System.out.println();
+	Collections.sort(fruit);
+	System.out.println(fruit);
+
     }
 }
