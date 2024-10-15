@@ -23,7 +23,7 @@ class StudentDetails implements Comparable {
 	StudentDetails s = (StudentDetails) o;
 	if (this.rno == s.rno)
 	    return 0;
-	else if (this.rno > s.rno)
+	else if (this.rno < s.rno)
 	    return -1;
 	else
 	    return 1;
@@ -49,7 +49,8 @@ public class StudentListSort {
 	for (StudentDetails student : studentslist)
 	    System.out.println(student);
 
-	Collections.sort(studentslist);
+	Collections.sort(studentslist, new rollnoasc());
+	Collections.sort(studentslist, new nameAsc());
 
 	System.out.println("\n After Sorting\n");
 	for (StudentDetails student : studentslist)

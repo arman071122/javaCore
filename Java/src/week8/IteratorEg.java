@@ -11,7 +11,7 @@ public class IteratorEg {
 	fruit.add("banana");
 	fruit.add("mango");
 
-	Iterator itr = fruit.iterator();
+	Iterator<String> itr = fruit.iterator();
 //	itr.remove(); // enable for IllegalStateException
 	while (itr.hasNext())
 	    System.out.println(itr.next());
@@ -24,6 +24,7 @@ public class IteratorEg {
 	fruit.add("dates");
 
 	itr = fruit.iterator(); // resetting
+
 	itr.next();// points to apple
 	itr.remove();// removes apple
 	itr.next();// points to banana

@@ -16,7 +16,6 @@ public class ListIteratiorEg {
 	ListIterator<String> li = fruit.listIterator();
 	while (li.hasNext())
 	    System.out.println(li.next());
-	li.add("dates");
 
 	System.out.println();
 

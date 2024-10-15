@@ -19,7 +19,6 @@ public class MatrimonyApp {
 		throw new Overage();
 	    else
 		System.out.println("Congratulations lets find u a life partner");
-
     }
 
     public static void main(String[] args) {

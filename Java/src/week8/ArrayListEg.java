@@ -6,6 +6,7 @@ import java.util.Iterator;
 public class ArrayListEg {
     public static void main(String[] args) {
 	ArrayList<String> fruits = new ArrayList<String>();
+
 	fruits.add("apple");
 	fruits.add("mango");
 	fruits.add("banana");
@@ -13,12 +14,14 @@ public class ArrayListEg {
 
 	System.out.println(fruits);
 	System.out.println();
+
 	fruits.remove("banana");
 	System.out.println(fruits);
 	System.out.println();
 	fruits.remove(0);
 	System.out.println(fruits);
 	System.out.println();
+
 	System.out.println(fruits.size());
 	System.out.println();
 
