@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-class StudentDetails implements Comparable {
+class StudentDetails implements Comparable<StudentDetails> {
     String name;
     int rno;
 
@@ -19,15 +19,21 @@ class StudentDetails implements Comparable {
     }
 
     @Override
-    public int compareTo(Object o) {
-	StudentDetails s = (StudentDetails) o;
-	if (this.rno == s.rno)
-	    return 0;
-	else if (this.rno < s.rno)
-	    return -1;
-	else
-	    return 1;
+    public int compareTo(StudentDetails s) {
+	return this.name.compareTo(s.name);
     }
+
+//    @Override
+//    public int compareTo(Object o) {
+//	StudentDetails s = (StudentDetails) o;
+//	if (this.rno == s.rno)
+//	    return 0;
+//	else if (this.rno < s.rno)
+//	    return -1;
+//	else
+//	    return 1;
+//    }
+
 }
 
 public class StudentListSort {
