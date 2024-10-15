@@ -22,7 +22,7 @@ public class Strings_eg {
 	System.out.println("Concatenation another eg is " + a.concat(" poda"));
 
 	System.out.println("Substring eg.1 substring is " + a.substring(1, 3) + "\n");
-	System.out.println("Substring eg.2 substring is " + a.substring(4));
+	System.out.println("Substring eg.2 substring is " + a.substring(1));
 
 	System.out.println("Trim omits the spaces before and after the string" + in2.trim() + a + "\n");
 
