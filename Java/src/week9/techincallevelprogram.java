@@ -2,8 +2,8 @@ package week9;
 
 public class techincallevelprogram {
     public static void main(String[] args) {
-	System.out.println(checkPassword("aA1_67", 6));
-	System.out.println(checkPassword("a987 abC012", 11));
+	checkPassword("aA1_67", 6);
+	checkPassword("a987 abC012", 11);
     }
 
     static int checkPassword(String str, int x) {
@@ -45,7 +45,7 @@ public class techincallevelprogram {
 	    System.out.println("You inputed String " + str + " is a valid password");
 	    return 1;
 	} else {
-	    System.out.println("You inputed String " + str + " is a invalid password");
+	    System.out.println("You inputed String " + str + " is an invalid password");
 	    return 0;
 	}
     }
